@@ -83,3 +83,20 @@ p {
     width: 24em;
     text-align: center;
 }
+
+#water_drop {
+    width: 40em;
+    height: 40em;
+}
+
+#water {
+    text-align: center;
+    background-image: url("./assets/Landingimg.jpeg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+#button {
+    text-align: center;
+}
